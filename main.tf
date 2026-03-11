@@ -1,2 +1,3 @@
 terraform{
-  required_provider
+  required_providers {
+    aws
